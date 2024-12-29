@@ -35,7 +35,6 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
 ---
 
 ![Sufialihasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufialihasan&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sufialihasan&layout=compact&theme=radical)
 
 ---
