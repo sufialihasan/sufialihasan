@@ -1,19 +1,15 @@
-# Hi, I'm Sufialihasan 👋
+# Hi, I'm Sufi Ali Hasan 👋
 
-Welcome to my GitHub profile! I'm a **Full Stack Developer** with expertise in creating efficient and scalable web applications. Passionate about clean code and elegant solutions, I specialize in **PHP**, **Laravel**, **MySQL**, **JavaScript**, and **Bootstrap 5**. Here you'll find a variety of my projects, tools, and contributions.
+Welcome to my GitHub profile! I'm a **Software Developer** with expertise in creating efficient and scalable web applications. Passionate about clean code and elegant solutions, I specialize in **PHP**, **Laravel**, **MySQL**, and **JavaScript**. Here you'll find a variety of my projects, tools, and contributions.
 
 ---
 
 ## 🚀 About Me
 
 - 💻 **Experience:**
-  - Skilled in **Software Development**: React + Vite, HTML, CSS, Bootstrap
-  - Proficient in **Backend Development**: PHP, Laravel, Node.js with Express.js
+  - Skilled in **Software Development**: Laravel + PHP, JavaScript, Ajax, JQuery, HTML, CSS, Bootstrap
+  - Proficient in **Backend Development**: PHP, Laravel, JavaScript
   - Database management using **MySQL**
-
-- 📖 Constantly learning and improving my knowledge of new frameworks and tools to stay updated with industry trends.
-
-- 💼 Open to collaborating on impactful projects and freelancing opportunities.
 
 ---
 
@@ -27,28 +23,14 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with expertise in c
 
 ### ⚙️ Frameworks and Libraries
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### 🔗 AJAX Technologies
+![AJAX](https://img.shields.io/badge/-AJAX-FF9900?style=for-the-badge&logo=ajax&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### [UMCA Studio Website](https://github.com/sufialihasan/umca-studio)
-A modern website showcasing photography services with a focus on UI/UX and responsiveness.
-- **Tech Stack:** HTML, CSS, Bootstrap, JavaScript, MySQL, PHP
-
-### [E-Commerce Platform](https://github.com/sufialihasan/ecommerce-project)
-A robust eCommerce application with seamless user experience and secure backend.
-- **Tech Stack:** Laravel, MySQL, HTML, CSS, Bootstrap, JavaScript
-
-### [Portfolio Website](https://github.com/sufialihasan/portfolio)
-A personal portfolio to highlight my skills and projects.
-- **Tech Stack:** React, Vite, Node.js
 
 ---
 
@@ -63,8 +45,17 @@ A personal portfolio to highlight my skills and projects.
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufialihasan)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sufialihasan)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@sufialihasan.in)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sufialihausan@example.com)  
+
+---
+
+## 🌐 Social Media and Portfolio
+
+### View My Profiles
+- **Instagram:** [@sufialihasan](https://instagram.com/sufialihasan)
+- **Facebook:** [Sufialihasan](https://facebook.com/sufialihasan)
+- **Portfolio:** [My Website](https://sufialihasan.com)
+- **WakaTime:** [Sufialihasan's WakaTime](https://wakatime.com/@sufialihasan)
 
 ---
 
