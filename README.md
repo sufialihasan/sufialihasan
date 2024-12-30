@@ -3,7 +3,7 @@
 <a href="https://github.com/sufialihasan?tab=followers">
   <img src="https://camo.githubusercontent.com/b59e7dcf0ba1ab647af39ca5b7ded335a00ce8b45d8118116c9c400ae51ea59b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f616c616e68616d6c6574743f6c6f676f3d676974687562267374796c653d706c6173746963" 
        alt="github" 
-       data-canonical-src="https://img.shields.io/github/followers/alanhamlett?logo=github&amp;style=plastic" 
+       data-canonical-src="https://img.shields.io/github/followers/sufialihasan?logo=github&amp;style=plastic" 
        style="max-width: 100%;">
 </a>
 
