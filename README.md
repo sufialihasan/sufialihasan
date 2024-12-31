@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
 
 ## 📫 Let's Connect
 
-<div align="center">
+<div class='row'>
     <a href="https://www.linkedin.com/in/sufialihasan">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a><br>
