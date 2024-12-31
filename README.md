@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
 
 
 ### ⚙️ Frameworks and Libraries
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
