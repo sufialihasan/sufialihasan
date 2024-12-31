@@ -2,7 +2,7 @@
 <a href="https://wakatime.com/@08844ba6-56d1-4549-a9db-86e8565149d8"><img src="https://wakatime.com/badge/user/08844ba6-56d1-4549-a9db-86e8565149d8.svg" alt="Total time coded since May 18 2024" /></a>
 
 
-Welcome to my GitHub profile! I'm a **Software Developer** with expertise in creating efficient and scalable web applications. Passionate about clean code and elegant solutions, I specialize in **PHP**, **Laravel**, **MySQL**, and **JavaScript**. Here you'll find a variety of my projects, tools, and contributions.
+Welcome to my GitHub profile! I'm a **Software Developer** with expertise in creating efficient and scalable web and software applications. Passionate about clean code and elegant solutions, I specialize in **PHP**, **Laravel**, **JavaScript** and **MySQL**. Here you'll find a variety of my projects, tools, and contributions.
 
 ---
 
