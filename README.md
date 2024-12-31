@@ -29,6 +29,7 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
 ### ⚙️ Frameworks and Libraries
 <div align="left">
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
 </div>
@@ -52,13 +53,7 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
     <a href="https://www.linkedin.com/in/sufialihasan">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://www.instagram.com/hasansiddiqui.786">
-        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://www.facebook.com/hasansiddiqui7860">
-        <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-    </a>
-    <a href="https://sufialihasan.in">
+      <a href="https://sufialihasan.in">
         <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
     </a>
     <a href="https://wakatime.com/@sufialihasan">
@@ -66,6 +61,12 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
     </a>
     <a href="mailto:sufialihausan@gmail.com">
         <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.instagram.com/hasansiddiqui.786">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://www.facebook.com/hasansiddiqui7860">
+        <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
 </div>
 
