@@ -43,12 +43,27 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufialihasan)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hasansiddiqui.786)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hasansiddiqui7860)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sufialihasan.in)  
-[![WakaTime](https://img.shields.io/badge/-WakaTime-56347C?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@sufialihasan)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sufialihausan@gmail.com)  
+<div align="center">
+    <a href="https://www.linkedin.com/in/sufialihasan">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a><br>
+    <a href="https://www.instagram.com/hasansiddiqui.786">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a><br>
+    <a href="https://www.facebook.com/hasansiddiqui7860">
+        <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a><br>
+    <a href="https://sufialihasan.in">
+        <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    </a><br>
+    <a href="https://wakatime.com/@sufialihasan">
+        <img src="https://img.shields.io/badge/-WakaTime-56347C?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime">
+    </a><br>
+    <a href="mailto:sufialihausan@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+</div>
+ 
 
 ---
 
