@@ -5,6 +5,14 @@
 Welcome to my GitHub profile! I'm a **Software Developer** with expertise in creating efficient and scalable web and software applications. Passionate about clean code and elegant solutions, I specialize in **PHP**, **Laravel**, **JavaScript** and **MySQL**. Here you'll find a variety of my projects, tools, and contributions.
 
 ---
+## 🏆 Highlights
+
+- 🚀 Over 2 years of experience in **Web development** and **software development**.
+- 💼 Delivered 15+ projects spanning **eCommerce**, **SaaS**, and **custom platforms**.
+- 🏅 Recognized for **clean code practices** and **efficient debugging skills**.
+- 🌱 Currently exploring **AI/ML technologies** with Python.
+
+---
 
 ## 🚀 About Me
 
@@ -42,8 +50,14 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+### 🛠️ Development Tools
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+## 📈 GitHub Stats
 ![Sufialihasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufialihasan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sufialihasan&layout=compact&theme=radical)
 
