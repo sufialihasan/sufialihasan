@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
 ## 🚀 About Me
 
 - 💻 **Experience:**
-  - Skilled in **Software Development**: Laravel + PHP, JavaScript, Ajax, JQuery, HTML, CSS, Bootstrap
-  - Proficient in **Backend Development**: PHP, Laravel, JavaScript
+  - Skilled in **Software Development**: Laravel + PHP, Python + Django, JavaScript, Ajax, JQuery, HTML, CSS, Bootstrap
+  - Proficient in **Backend Development**: PHP, Laravel, Pyhton, Djaongo, JavaScript
   - Database management using **MySQL**
 
 ---
@@ -55,8 +55,8 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
     <a href="https://www.linkedin.com/in/sufialihasan">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-      <a href="https://sufialihasan.in">
-        <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <a href="https://sufialihasan.in">
+        <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
     </a>
     <a href="https://wakatime.com/@sufialihasan">
         <img src="https://img.shields.io/badge/-WakaTime-56347C?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime">
