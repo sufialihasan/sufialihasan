@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
 ---
 ## 🏆 Highlights
 
-- 🚀 Over 2 years of experience in **Web development** and **software development**.
+- 🚀 Over 2 years of experience in **web development** and **software development**.
 - 💼 Delivered 15+ projects spanning **eCommerce**, **SaaS**, and **custom platforms**.
 - 🏅 Recognized for **clean code practices** and **efficient debugging skills**.
 - 🌱 Currently exploring **AI/ML technologies** with Python.
