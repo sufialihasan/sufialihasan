@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
 
 - 💻 **Experience:**
   - Skilled in **Software Development**: Laravel + PHP, Python + Django, JavaScript, Ajax, JQuery, HTML, CSS, Bootstrap
-  - Proficient in **Backend Development**: PHP, Laravel, Pyhton, Djaongo, JavaScript
+  - Proficient in **Backend Development**: PHP, Laravel, Pyhton, Djaongo, Node.js, Express.js, JavaScript
   - Database management using **MySQL**
 
 ---
@@ -44,7 +44,11 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
     <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+    <img src="https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
 </div>
+
 
 ### 🔗 AJAX Technologies
 ![AJAX](https://img.shields.io/badge/-AJAX-FF9900?style=for-the-badge&logo=ajax&logoColor=white)
