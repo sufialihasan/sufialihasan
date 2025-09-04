@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
 
-  <br><br>
+  <br>
 
   <!-- Frontend Frameworks & Libraries -->
   <p><b>Frontend Frameworks & Libraries</b></p>
@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
 
-  <br><br>
+  <br>
 
   <!-- Styling Libraries -->
   <p><b>Styling Libraries</b></p>
