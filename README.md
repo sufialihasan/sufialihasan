@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
 ## 🏆 Highlights
 
 - 🚀 Over 2 years of experience in **web development** and **software development**.
-- 💼 Delivered 15+ projects spanning **eCommerce**, **SaaS**, and **custom platforms**.
+- 💼 Delivered 25+ projects spanning **eCommerce**, **SaaS**, and **custom platforms**.
 - 🏅 Recognized for **clean code practices** and **efficient debugging skills**.
 - 🌱 Currently exploring **AI/ML technologies** with Python.
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in cre
 - 💻 **Experience:**
   - Skilled in **Software Development**: Laravel + PHP, Python + Django, JavaScript, Ajax, JQuery, HTML, CSS, Bootstrap
   - Proficient in **Backend Development**: PHP, Laravel, Pyhton, Djaongo, Node.js, Express.js, JavaScript
-  - Database management using **MySQL**
+  - Database management using **MySQL**, **MongoDB**
 
 ---
 
